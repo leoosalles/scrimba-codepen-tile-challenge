@@ -1,14 +1,70 @@
-# scrimba-codepen-tile-challenge
-This project is a stylish and interactive card component designed for web applications. Using HTML and CSS, the card elegantly displays an image, user avatar, title, username, and social stats. The stats appear dynamically when the user hovers over the card, enhancing the user experience.
-<h2>Features</h2>
+<h1>Codepen Tile - CSS Practice Challenge 🚀</h1>
+<h2>Overview</h2>
+<p>
+  This project is part of the <strong>"CSS Practice"</strong> module in the <strong>Improve Your CSS</strong> specialization course offered by <strong>Scrimba</strong>. The challenge focuses on designing an interactive <strong>profile card component</strong> using modern <strong>CSS techniques</strong>, including <strong>flexbox, hover effects, and custom styling</strong>. The goal is to enhance <strong>UI design skills</strong>, improve <strong>layout structuring</strong>, and refine <strong>responsive design principles</strong> while developing a visually engaging card component.
+</p>
+<h2>Features ✨</h2>
+<p>
+  ✅ <strong>Modern card design</strong> with a clean and structured layout.
+</p>
+<p>
+  ✅ <strong>Hover interaction</strong>, displaying user engagement statistics dynamically.
+</p>
+<p>
+  ✅ <strong>Typography enhancements</strong>, using Google Fonts for better readability.
+</p>
+<p>
+  ✅ <strong>Styled avatar and thumbnail</strong>, making the profile visually distinct.
+</p>
+<p>
+  ✅ <strong>Flexbox-based alignment</strong>, ensuring smooth and responsive positioning.
+</p>
+<h2>Technologies Used 🛠️</h2>
+<p>
+  🎨 <strong>CSS3</strong> – Advanced styling, layout management, and animations.
+</p>
+<p>
+  📐 <strong>Flexbox</strong> – Structuring card elements for better responsiveness.
+</p>
+<p>
+  🔠 <strong>Google Fonts</strong> – Enhancing typography and aesthetic appeal.
+</p>
+<p>
+  🖥️ <strong>HTML5</strong> – Semantic structure for the card component.
+</p>
+<h2>How It Works ⚡</h2>
+<p>
+  📌 <strong>Card Structure:</strong>
+</p>
 <ul>
-  <li><strong>Modern Design:</strong> A clean, minimalistic card layout with a visually appealing color scheme.</li>
-  <li><strong>Hover Effect:</strong> Social engagement stats appear on hover for better interaction.</li>
-  <li><strong>Responsive Layout:</strong> The card adapts to different screen sizes and aligns centrally.</li>
+  <li>
+    Displays a <strong>thumbnail, avatar</strong>, and <strong>user details</strong>.
+  </li>
+  <li>
+    <strong>Hover effect</strong> reveals interaction stats (<strong>likes</strong> and <strong>comments</strong>).
+  </li>
 </ul>
-<h2>Technologies Used</h2>
+<p>
+  📌 <strong>Responsive Design:</strong>
+</p>
 <ul>
-  <li><strong>HTML5:</strong> Structured content and layout.</li>
-  <li><strong>CSS3:</strong> Styling, hover effects, and variable-based theme customization.</li>
-  <li><strong>Google Fonts:</strong> Custom typography with Noto Sans.</li>
+  <li>
+    Uses <strong>flexbox for alignment</strong> and <strong>CSS variables for easier customization</strong>.
+  </li>
+</ul>
+<p>
+  📌 <strong>Hover Effect:</strong>
+</p>
+<ul>
+  <li>
+    <strong>Card stats</strong> appear when hovering over the component, improving engagement.
+  </li>
+</ul>
+<p>
+  📌 <strong>Typography Enhancement:</strong>
+</p>
+<ul>
+  <li>
+    Font styles enhance <strong>readability and visual hierarchy</strong>.
+  </li>
 </ul>
